@@ -261,9 +261,9 @@ This project is licensed under the MIT License.
 
 💼 Aspiring Data Analyst | AI/ML Enthusiast
 
-**GitHub:** https://github.com/YOUR_USERNAME
+**GitHub:** https://github.com/24f2006816
 
-**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+**LinkedIn:** https://linkedin.com/in/pratyaksh-pandey-897935315/
 
 ---
 
